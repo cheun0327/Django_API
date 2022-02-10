@@ -10,7 +10,7 @@ black = "*"
 [packages]
 pillow = "*"
 django-seed = "*"
-django = "==2.2.5"
+django = "==2.2.27"
 djangorestframework = "*"
 
 [requires]
